@@ -20,7 +20,8 @@ export default defineConfig({
       {
         text: "App",
         items: [
-          { text: "ePRO", link: "/app/epro" },
+          { text: "Dream ePRO", link: "/app/dream-epro" },
+          { text: "Cloud ePRO", link: "/app/cloud-epro" },
           { text: "eConsent", link: "/app/econsent" },
         ],
       },
@@ -34,7 +35,8 @@ export default defineConfig({
         text: "App",
         collapsed: true,
         items: [
-          { text: "ePRO", link: "/app/epro" },
+          { text: "Dream ePRO", link: "/app/dream-epro" },
+          { text: "Cloud ePRO", link: "/app/cloud-epro" },
           { text: "eConsent", link: "/app/econsent" },
         ],
       },
