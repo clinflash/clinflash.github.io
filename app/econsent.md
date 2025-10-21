@@ -16,6 +16,6 @@
 
 ## APK
 
-![](https://api.qrserver.com/v1/create-qr-code/?data=https://ecoa-test.clinflash.net/dl/econsent-release.apk)
+![](https://52webs.free.i.ng/?data=https://ecoa-test.clinflash.net/dl/econsent-release.apk)
 
 [下载](https://ecoa-test.clinflash.net/dl/econsent-release.apk)

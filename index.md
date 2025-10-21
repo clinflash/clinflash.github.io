@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "易迪希"
+  name: 易迪希
   actions:
     - theme: brand
       text: Dream ePRO

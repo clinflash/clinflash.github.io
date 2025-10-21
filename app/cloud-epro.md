@@ -11,6 +11,6 @@
 
 ## APK
 
-![](https://api.qrserver.com/v1/create-qr-code/?data=https://ecoa-test.clinflash.net/dl/cloud-epro-release.apk)
+![下载二维码](https://52webs.free.i.ng/?data=https://ecoa-test.clinflash.net/dl/cloud-epro-release.apk)
 
 [下载](https://ecoa-test.clinflash.net/dl/cloud-epro-release.apk)
