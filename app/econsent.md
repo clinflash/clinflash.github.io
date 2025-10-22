@@ -14,8 +14,6 @@
 | 荣耀 | 1.2.1 | 2024-10-27 | - |
 | [豌豆荚](https://www.wandoujia.com/apps/8426385) | 1.2.1 | 2024-10-28 | - |
 
-## APK
+扫描或点击下方二维码可下载 APK 文件
 
-![](https://52webs.free.i.ng/?data=https://ecoa-test.clinflash.net/dl/econsent-release.apk)
-
-[下载](https://ecoa-test.clinflash.net/dl/econsent-release.apk)
+[![二维码](https://52webs.free.i.ng/?data=https://ecoa-test.clinflash.net/dl/econsent-release.apk)](https://ecoa-test.clinflash.net/dl/econsent-release.apk)

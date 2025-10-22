@@ -9,8 +9,6 @@
 | [App Store](https://apps.apple.com/us/app/cloud-epro/id6497791486) | 1.7.2 | 2024-08-12 | - |
 | [Google Play](https://play.google.com/store/apps/details?id=com.clinflash.cloud.epro) | 1.7.2 | 2024-08-12 | - |
 
-## APK
+扫描或点击下方二维码可下载 APK 文件
 
-![下载二维码](https://52webs.free.i.ng/?data=https://ecoa-test.clinflash.net/dl/cloud-epro-release.apk)
-
-[下载](https://ecoa-test.clinflash.net/dl/cloud-epro-release.apk)
+[![二维码](https://52webs.free.i.ng/?data=https://ecoa-test.clinflash.net/dl/cloud-epro-release.apk)](https://ecoa-test.clinflash.net/dl/cloud-epro-release.apk)
