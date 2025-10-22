@@ -6,13 +6,13 @@
 
 | 应用商店 | 已上架版本 | 上架时间 | 审核中版本 |
 | --- | --- | --- | --- |
-| [App Store](https://apps.apple.com/cn/app/dream-epro/id1584312399) | 1.11.2 | 2025-08-14 | 1.12.0 |
+| [App Store](https://apps.apple.com/cn/app/dream-epro/id1584312399) | 1.12.0 | 2025-10-22 | - |
 | [小米](https://app.mi.com/details?id=com.clinflash.epro.luoxin) | 1.12.0 | 2025-10-21 | - |
-| [华为](https://appgallery.huawei.com/app/C104698125) | 1.11.2 | 2025-08-14 | 1.12.0 |
+| [华为](https://appgallery.huawei.com/app/C104698125) | 1.12.0 | 2025-10-22 | - |
 | [OPPO](https://app.cdo.oppomobile.com/home/detail?app_id=30672361) | 1.12.0 | 2025-10-21 | - |
-| [VIVO](https://h5coml.vivo.com.cn/h5coml/appdetail_h5/browser_v2/index.html?appId=3335933) | 1.11.2 | 2025-08-14 | 1.12.0 |
-| [荣耀](https://appmarket-h5.cloud.honor.com/h5/share/latest/index.html?shareId=1868482113379164160) | 1.11.2 | 2025-08-14 | 1.12.0 |
-| [豌豆荚](https://www.wandoujia.com/apps/8304440) | 1.11.2 | 2025-08-14 | 1.12.0 |
+| [VIVO](https://h5coml.vivo.com.cn/h5coml/appdetail_h5/browser_v2/index.html?appId=3335933) | 1.12.0 | 2025-10-22 | - |
+| [荣耀](https://appmarket-h5.cloud.honor.com/h5/share/latest/index.html?shareId=1868482113379164160) | 1.12.0 | 2025-10-22 | - |
+| [豌豆荚](https://www.wandoujia.com/apps/8304440) | 1.12.0 | 2025-10-22 | - |
 
 扫描或点击下方二维码可下载 APK 文件
 
