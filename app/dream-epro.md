@@ -1,4 +1,4 @@
-# Dream ePRO <Badge type="tip" text="1.12.0" />
+# Dream ePRO <Badge type="tip" text="1.12.1" />
 
 ::: tip 提示
 如果点击下方链接无反应，请在浏览器中打开此网站，避免在 QQ 或微信等应用中访问。
@@ -6,13 +6,13 @@
 
 | 应用商店 | 已上架版本 | 上架时间 | 审核中版本 |
 | --- | --- | --- | --- |
-| [App Store](https://apps.apple.com/cn/app/dream-epro/id1584312399) | 1.12.0 | 2025-10-22 | - |
-| [小米](https://app.mi.com/details?id=com.clinflash.epro.luoxin) | 1.12.0 | 2025-10-21 | - |
-| [华为](https://appgallery.huawei.com/app/C104698125) | 1.12.0 | 2025-10-22 | - |
-| [OPPO](https://app.cdo.oppomobile.com/home/detail?app_id=30672361) | 1.12.0 | 2025-10-21 | - |
-| [VIVO](https://h5coml.vivo.com.cn/h5coml/appdetail_h5/browser_v2/index.html?appId=3335933) | 1.12.0 | 2025-10-22 | - |
-| [荣耀](https://appmarket-h5.cloud.honor.com/h5/share/latest/index.html?shareId=1868482113379164160) | 1.12.0 | 2025-10-22 | - |
-| [豌豆荚](https://www.wandoujia.com/apps/8304440) | 1.12.0 | 2025-10-22 | - |
+| [App Store](https://apps.apple.com/cn/app/dream-epro/id1584312399) | 1.12.0 | 2025-10-22 | 1.12.1 |
+| [小米](https://app.mi.com/details?id=com.clinflash.epro.luoxin) | 1.12.0 | 2025-10-21 | 1.12.1 |
+| [华为](https://appgallery.huawei.com/app/C104698125) | 1.12.0 | 2025-10-22 | 1.12.1 |
+| [OPPO](https://app.cdo.oppomobile.com/home/detail?app_id=30672361) | 1.12.0 | 2025-10-21 | 1.12.1 |
+| [VIVO](https://h5coml.vivo.com.cn/h5coml/appdetail_h5/browser_v2/index.html?appId=3335933) | 1.12.0 | 2025-10-22 | 1.12.1 |
+| [荣耀](https://appmarket-h5.cloud.honor.com/h5/share/latest/index.html?shareId=1868482113379164160) | 1.12.0 | 2025-10-22 | 1.12.1 |
+| [豌豆荚](https://www.wandoujia.com/apps/8304440) | 1.12.0 | 2025-10-22 | 1.12.1 |
 
 扫描或点击下方二维码可下载 APK 文件
 
