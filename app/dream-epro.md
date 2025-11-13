@@ -6,13 +6,13 @@
 
 | 应用商店 | 已上架版本 | 上架时间 | 审核中版本 |
 | --- | --- | --- | --- |
-| [App Store](https://apps.apple.com/cn/app/dream-epro/id1584312399) | 1.12.0 | 2025-10-22 | 1.12.1 |
-| [小米](https://app.mi.com/details?id=com.clinflash.epro.luoxin) | 1.12.0 | 2025-10-21 | 1.12.1 |
-| [华为](https://appgallery.huawei.com/app/C104698125) | 1.12.0 | 2025-10-22 | 1.12.1 |
-| [OPPO](https://app.cdo.oppomobile.com/home/detail?app_id=30672361) | 1.12.0 | 2025-10-21 | 1.12.1 |
-| [VIVO](https://h5coml.vivo.com.cn/h5coml/appdetail_h5/browser_v2/index.html?appId=3335933) | 1.12.0 | 2025-10-22 | 1.12.1 |
-| [荣耀](https://appmarket-h5.cloud.honor.com/h5/share/latest/index.html?shareId=1868482113379164160) | 1.12.0 | 2025-10-22 | 1.12.1 |
-| [豌豆荚](https://www.wandoujia.com/apps/8304440) | 1.12.0 | 2025-10-22 | 1.12.1 |
+| [App Store](https://apps.apple.com/cn/app/dream-epro/id1584312399) | 1.12.1 | 2025-11-13 | - |
+| [小米](https://app.mi.com/details?id=com.clinflash.epro.luoxin) | 1.12.1 | 2025-11-12 | - |
+| [华为](https://appgallery.huawei.com/app/C104698125) | 1.12.1 | 2025-11-13 | - |
+| [OPPO](https://app.cdo.oppomobile.com/home/detail?app_id=30672361) | 1.12.1 | 2025-11-13 | - |
+| [VIVO](https://h5coml.vivo.com.cn/h5coml/appdetail_h5/browser_v2/index.html?appId=3335933) | 1.12.1 | 2025-11-13 | - |
+| [荣耀](https://appmarket-h5.cloud.honor.com/h5/share/latest/index.html?shareId=1868482113379164160) | 1.12.1 | 2025-11-13 | - |
+| [豌豆荚](https://www.wandoujia.com/apps/8304440) | 1.12.1 | 2025-11-13 | - |
 
 扫描或点击下方二维码可下载 APK 文件
 
