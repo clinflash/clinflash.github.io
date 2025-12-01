@@ -7,7 +7,7 @@
 | 应用商店 | 已上架版本 | 上架时间 | 审核中版本 |
 | --- | --- | --- | --- |
 | [App Store](https://apps.apple.com/cn/app/dream-epro/id1584312399) | 1.12.2 | 2025-11-27 | - |
-| [Google Play](https://play.google.com/store/apps/details?id=com.clinflash.epro.luoxin) | 1.3.2 | 2023-04-16 | 1.12.2 |
+| [Google Play](https://play.google.com/store/apps/details?id=com.clinflash.epro.luoxin) | 1.12.2 | 2025-11-29 | - |
 | [小米](https://app.mi.com/details?id=com.clinflash.epro.luoxin) | 1.12.2 | 2025-11-26 | - |
 | [华为](https://appgallery.huawei.com/app/C104698125) | 1.12.2 | 2025-11-27 | - |
 | [OPPO](https://app.cdo.oppomobile.com/home/detail?app_id=30672361) | 1.12.2 | 2025-11-26 | - |
