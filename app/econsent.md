@@ -16,4 +16,4 @@
 
 扫描或点击下方二维码可下载 APK 文件
 
-[![二维码](https://52webs.free.i.ng/?data=https://ecoa-test.clinflash.net/dl/econsent-release.apk)](https://ecoa-test.clinflash.net/dl/econsent-release.apk)
+[![二维码](/images/qrcode-econsent.png)](https://ecoa-test.clinflash.net/dl/econsent-release.apk)
