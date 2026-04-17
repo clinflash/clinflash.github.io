@@ -1,4 +1,4 @@
-# Dream ePRO <Badge type="tip" text="1.12.2" />
+# Dream ePRO <Badge type="tip" text="1.13.1" />
 
 ::: tip 提示
 如果点击下方链接无反应，请在浏览器中打开此网站，避免在 QQ 或微信等应用中访问。
