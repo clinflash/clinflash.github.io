@@ -6,8 +6,8 @@
 
 | 应用商店 | 已上架版本 | 上架时间 | 审核中版本 |
 | --- | --- | --- | --- |
-| [App Store](https://apps.apple.com/us/app/cloud-epro/id6497791486) | 1.7.2 | 2024-08-12 | - |
-| [Google Play](https://play.google.com/store/apps/details?id=com.clinflash.cloud.epro) | 1.7.2 | 2024-08-12 | - |
+| [App Store](https://apps.apple.com/us/app/cloud-epro/id6497791486) | 1.12.2 | 2025-12-23 | 1.13.0 |
+| [Google Play](https://play.google.com/store/apps/details?id=com.clinflash.cloud.epro) | 1.12.2 | 2025-12-22 | 1.13.0 |
 
 扫描或点击下方二维码可下载 APK 文件
 
