@@ -6,14 +6,14 @@
 
 | 应用商店 | 已上架版本 | 上架时间 | 审核中版本 |
 | --- | --- | --- | --- |
-| [App Store](https://apps.apple.com/cn/app/dream-epro/id1584312399) | 1.13.1 | 2026-04-04 | - |
-| [Google Play](https://play.google.com/store/apps/details?id=com.clinflash.epro.luoxin) | 1.13.0 | 2026-02-25 | 1.13.1 |
-| [小米](https://app.mi.com/details?id=com.clinflash.epro.luoxin) | 1.13.1 | 2026-04-04 | - |
-| [华为](https://appgallery.huawei.com/app/C104698125) | 1.13.1 | 2026-04-04 | - |
-| [OPPO](https://app.cdo.oppomobile.com/home/detail?app_id=30672361) | 1.13.1 | 2026-04-03 | - |
-| [VIVO](https://h5coml.vivo.com.cn/h5coml/appdetail_h5/browser_v2/index.html?appId=3335933) | 1.13.1 | 2026-04-07 | - |
-| [荣耀](https://appmarket-h5.cloud.honor.com/h5/share/latest/index.html?shareId=2044969581873143808) | 1.13.1 | 2026-04-03 | - |
-| [豌豆荚](https://www.wandoujia.com/apps/8304440) | 1.13.1 | 2026-04-03 | - |
+| [App Store](https://apps.apple.com/cn/app/dream-epro/id1584312399) | 1.14.0 | 2026-05-07 | - |
+| [Google Play](https://play.google.com/store/apps/details?id=com.clinflash.epro.luoxin) | 1.13.1 | 2026-04-16 | - |
+| [小米](https://app.mi.com/details?id=com.clinflash.epro.luoxin) | 1.14.0 | 2026-05-08 | - |
+| [华为](https://appgallery.huawei.com/app/C104698125) | 1.14.0 | 2026-05-12 | - |
+| [OPPO](https://app.cdo.oppomobile.com/home/detail?app_id=30672361) | 1.14.0 | 2026-05-07 | - |
+| [VIVO](https://h5coml.vivo.com.cn/h5coml/appdetail_h5/browser_v2/index.html?appId=3335933) | 1.14.0 | 2026-05-08 | - |
+| [荣耀](https://appmarket-h5.cloud.honor.com/h5/share/latest/index.html?shareId=2044969581873143808) | 1.14.0 | 2026-05-08 | - |
+| [豌豆荚](https://www.wandoujia.com/apps/8304440) | 1.14.0 | 2026-05-07 | - |
 
 扫描或点击下方二维码可下载 APK 文件
 
